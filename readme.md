@@ -7,5 +7,5 @@
 
 
 ## Demo
-![首页登录]('/login.png' "首页登录")
-![聊天室]('/chat.png' "聊天室")
+![首页登录]('public/login.png' "首页登录")
+![聊天室]('public/chat.png' "聊天室")
