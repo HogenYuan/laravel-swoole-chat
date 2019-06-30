@@ -7,5 +7,11 @@
 
 
 ## Demo
-![首页登录](public/login.png "首页登录")
-![聊天室](public/chat.png "聊天室")
+![首页登录](47.107.242.203/login.png "首页登录")
+![聊天室](47.107.242.203/chat.png "聊天室")
+
+##Run
+###cmd
+`php artisan swoole start`
+###客户端
+多访问几个页面
