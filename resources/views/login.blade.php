@@ -7,10 +7,10 @@
     <link rel="stylesheet" type="text/css" href="/fonts/font-awesome-4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" type="text/css" href="/css/util.css">
     <link rel="stylesheet" type="text/css" href="/css/main.css">
+    {{-- 引入jq,vue,element --}}
+    <script src="/jquery.min.js"></script>
     <script src="/vue.js"></script>
-     <!-- 引入样式 -->
     <link rel="stylesheet" href="/css/element.css">
-    <!-- 引入组件库 -->
     <script src="/js/element.js"></script>
 </head>
 
@@ -56,7 +56,6 @@
 </div>
 </div>
 
-<script src="/vendor/jquery/jquery-1.12.4.min.js"></script>
 <script src="/js/main.js"></script>
 <script>
    var login_app = new Vue({
