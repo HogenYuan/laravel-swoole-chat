@@ -7,7 +7,6 @@
 
 ## Run
 
-### cmd
 `php artisan swoole start`
 ### 客户端
 多打开几个页面测试
